@@ -2,3 +2,4 @@ The Facebook marketplace analysis model is used to predict/ selecting the optimo
 The classsification model I used was K -Means clustering which is a Unsupervised machine learning algorithm.
 I found that 2 was the optiminal number of groups to be splitted.
 The result was found Video was best alligned for their distribution as it had more reach to all kind of people.
+The Dataset is confidential as it involves details of live sellers.
