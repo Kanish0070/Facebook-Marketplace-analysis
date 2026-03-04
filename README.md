@@ -1,5 +1,6 @@
-Strategic Engagement Analysis: Decoding Marketplace Virality
-Project OverviewThis project identifies the structural drivers of engagement within a Facebook Marketplace dataset of 7,000+ retail records. Moving beyond basic descriptive statistics, this analysis utilizes a multi-model unsupervised learning framework to segment content behavior and quantify the "viral lift" of different media formats.The core discovery identifies a "Vertical Scaling" effect in Video content, which achieves engagement multipliers up to 20x higher than the marketplace baseline, compared to a stagnant "Growth Plateau" found in static Photos.
+Strategic Engagement Analysis: Decoding Marketplace Virality.
+
+Project Overview:This project identifies the structural drivers of engagement within a Facebook Marketplace dataset of 7,000+ retail records. Moving beyond basic descriptive statistics, this analysis utilizes a multi-model unsupervised learning framework to segment content behavior and quantify the "viral lift" of different media formats.The core discovery identifies a "Vertical Scaling" effect in Video content, which achieves engagement multipliers up to 20x higher than the marketplace baseline, compared to a stagnant "Growth Plateau" found in static Photos.
 
 Key Technical Features:
 1.Multi-Model Clustering: Parallel implementation of K-Means, Agglomerative (Hierarchical) Clustering, and DBSCAN to triangulate user behavior patterns.
