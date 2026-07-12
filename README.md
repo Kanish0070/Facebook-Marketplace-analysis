@@ -49,10 +49,10 @@ graph TD
     D --> E[Base Condition Benchmarking]
 ```
 
-###1. Preprocessing: Applied One-Hot Encoding to categorical media types followed by robust feature scaling.Dimensionality 
-###2. Reduction: Utilized Principal Component Analysis (PCA) to project high-dimensional behavioral data for optimal visualization and cluster structural integrity.
-###3. Clustering & Optimization: Iteratively tested $k$-values using the Elbow Method, Silhouette Analysis, and BIC optimization.
-###4. Multiplier Analysis: Conducted comparative benchmarking of isolated clusters against a calculated "Base Condition" for each model.
+### 1. Preprocessing: Applied One-Hot Encoding to categorical media types followed by robust feature scaling.Dimensionality 
+### 2. Reduction: Utilized Principal Component Analysis (PCA) to project high-dimensional behavioral data for optimal visualization and cluster structural integrity.
+### 3. Clustering & Optimization: Iteratively tested $k$-values using the Elbow Method, Silhouette Analysis, and BIC optimization.
+### 4. Multiplier Analysis: Conducted comparative benchmarking of isolated clusters against a calculated "Base Condition" for each model.
 
 ## Repository Structure
 ├── data/                  # Dataset files (mock/sampled data)
