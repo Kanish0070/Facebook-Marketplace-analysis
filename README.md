@@ -26,7 +26,7 @@ The primary finding identifies a distinct **Vertical Scaling** effect in Video c
 
 ### 1. The Video "Viral Engine"
 Analysis shows that Video is the unique format capable of breaking the marketplace engagement ceiling. While present in both standard and elite clusters, Videos in the top segment demonstrated:
-* A **15x – 20x Multiplier** in high-effort organic actions (Shares and Loves).
+* A **4x – 8x Multiplier** in high-effort organic actions (Shares and Loves).
 * Superior **Conversion-to-Share** rates compared to all other media types.
 
 ### 2. The Photo "Growth Plateau"
