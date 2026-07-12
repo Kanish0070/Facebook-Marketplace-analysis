@@ -54,9 +54,4 @@ graph TD
 ### 3. Clustering & Optimization: Iteratively tested $k$-values using the Elbow Method, Silhouette Analysis, and BIC optimization.
 ### 4. Multiplier Analysis: Conducted comparative benchmarking of isolated clusters against a calculated "Base Condition" for each model.
 
-## Repository Structure
-├── data/                  # Dataset files (mock/sampled data)
-├── notebooks/             # Jupyter Notebooks detailing the step-by-step math & EDA
-├── src/                   # Production scripts for preprocessing, scaling, and clustering
-├── requirements.txt       # Dependencies needed to run the environment
-└── README.md              # Project documentation
+
