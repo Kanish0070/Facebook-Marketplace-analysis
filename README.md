@@ -17,6 +17,9 @@ The primary finding identifies a distinct **Vertical Scaling** effect in Video c
 ## 🛠️ Key Technical Features
 
 * **Multi-Model Clustering:** Parallel implementation of `K-Means`, `Agglomerative (Hierarchical) Clustering`, and `DBSCAN` to cross-validate and triangulate user behavior patterns.
+  ![Elbow Graph](elbow%20graph.png)
+  ![BIC Graph](BIC%20graph.png)
+  
 * **Density-Based Outlier Detection:** Utilized `DBSCAN` to isolate the 29 most viral posts in the dataset, identifying them as distinct, high-impact "Viral Engines" rather than statistical noise.
 * **Advanced Statistical Validation:** * Achieved a **Silhouette Score of 0.9184**, indicating exceptionally high cluster density and separation.
     * Optimized model selection using **Bayesian Information Criterion (BIC)** with a score of **-224,898.2**, statistically verifying the 2-cluster probabilistic fit.
@@ -34,14 +37,12 @@ Analysis shows that Video is the unique format capable of breaking the marketpla
 * A **4x – 8x Multiplier** in high-effort organic actions (Shares and Loves).
 * Superior **Conversion-to-Share** rates compared to all other media types.
 
-![BIC Graph](BIC%20graph.png)
 
 ### 2. The Photo "Growth Plateau"
 Despite being the most frequent content type in the dataset, Photos exhibit a stark localized performance limit:
 * Initial entry-level engagement shows a **~84% spike**.
 * However, growth remains flat (**1x – 2x**) in viral metrics, completely failing to achieve the exponential scaling seen in Video content.
 
-![Elbow Graph](elbow%20graph.png)
 
 ### 3. Structural Tiering
 The marketplace distribution is heavily skewed. It follows a **"Heavy-Tail" distribution** where **~95% of content** resides in a standard baseline, while a tiny, elite segment drives the vast majority of organic reach.
