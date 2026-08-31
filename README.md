@@ -17,6 +17,7 @@ The primary finding identifies a distinct **Vertical Scaling** effect in Video c
 ## 🛠️ Key Technical Features
 
 * **Multi-Model Clustering:** Parallel implementation of `K-Means`, `Agglomerative (Hierarchical) Clustering`, and `DBSCAN` to cross-validate and triangulate user behavior patterns.
+  
   ![Elbow Graph](elbow%20graph.png)
   ![BIC Graph](BIC%20graph.png)
   
